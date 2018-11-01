@@ -1,2 +1,2 @@
 # jsconf
-https://l.facebook.com/l.php?u=https%3A%2F%2Fdocs.google.com%2Fpresentation%2Fd%2Fe%2F2PACX-1vTcVGurXSPEFNs2JUy7JW5w76Ykj1cV_pYBu9ykm4kh-KzTwsYBaPfu8rSylBAOuTlk8A5b81padukP%2Fpub%3Fstart%3Dtrue%26loop%3Dfalse%26delayms%3D3000%26fbclid%3DIwAR3Xtljyhn-TKK8pJ2LrLD1AAHwnz11Q2H-mOGYbbSaQYVAAPCIRJ1P8dxU&h=AT3TgTMyVNhZLgnBf-7cRme5gTMQFTOcROb4tiKW7-rj1jVhklh-aSOucR8xO4WUS0sATXehoPgbENFbGTgNK1qUSVESd5x7XkeAcpicPKdLvAgjqVaU6Z4VirBU-IisBc3aBA
+https://docs.google.com/presentation/d/1haBjNbzEdknAyO3MmFQy0bOs-oKuw3_0tRWnpe61JQ8/edit#slide=id.p1
